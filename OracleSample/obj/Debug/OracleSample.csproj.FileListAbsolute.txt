@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\bin\Debug\OracleSample.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\bin\Debug\OracleSample.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\bin\Debug\OracleSample.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OracleSample\OracleSample\obj\Debug\OracleSample.pdb
